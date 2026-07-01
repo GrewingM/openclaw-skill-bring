@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "registry": "https://clawhub.ai",
+  "slug": "bring",
+  "ownerHandle": "grewingm",
+  "installedVersion": "1.0.0",
+  "installedAt": 1782878564616,
+  "artifact": {
+    "kind": "archive",
+    "sha256": "5cac34c9f9d72d0671a3a35a0cc10a4456b32aaf1bcf6a7bb76837c1029b7a6c",
+    "integrity": "sha256-XKw0yfnXLQZxo6NaDMEKRFazKq8bz2p7t2g3wQKbemw="
+  },
+  "skillFile": {
+    "path": "SKILL.md",
+    "sha256": "22c6ef6f7ec10e7cacc05453e7e496f54319a7730fe0d46b56e10157c31ba518"
+  }
+}
